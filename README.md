@@ -2,7 +2,7 @@
 Responsive modern Portfolio website using HTML, CSS, and JavaScript
 
 ## Demo 
-View live demo [here →](https://github.com/Adityasingh66/car-rental-system.git)
+View live demo [here →](https://github.com/Ajayykr01/car_rental_system)
 
 ![portfolio](img4.jpeg)
 ![portfolio](img5.jpeg)
