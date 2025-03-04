@@ -1,5 +1,5 @@
 # Portfolio
-Responsive modern Portfolio website using HTML, CSS, and JavaScript
+Responsive car rental system using java and java collection
 
 ## Demo 
 View live demo [here →](https://github.com/Ajayykr01/car_rental_system)
